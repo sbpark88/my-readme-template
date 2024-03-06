@@ -6,7 +6,8 @@ https://github.com/othneildrew/Best-README-Template 를 기본으로 하여 수�
 <br />
 <div align="center"> <!-- Obsolete attribute 는 일반 HTML 문서에서 해당되는거고, 깃허브의 마크다운에는 style text-align 이 적용되지 않고 align 이 적용된다. -->
   <a href="https://github.com/sbpark88">
-    <img src="https://github.com/sbpark88/sbpark88.github.io/blob/main/assets/images/favicon/greendreamtree.png" alt="Logo" width="80" height="80">
+    <!-- images 디렉토리의 `logo.png` 파일을 업데이트한다. -->
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Starbucks</h3>
@@ -180,7 +181,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- images 디렉토리를 만들고, screenshot.png 파일을 추가한다. 배포된 프로젝트 경로를 추가한다. -->
+<!-- images 디렉토리의 `screenshot.png` 파일을 업데이트한다. 배포된 프로젝트 경로를 추가한다. -->
 [product-screenshot]:images/screenshot.png
 [product-deploy-url]:about:blank
 
