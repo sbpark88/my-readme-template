@@ -193,6 +193,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ![JavaScript][JavaScript Icon]
 ![TypeScript][TypeScript Icon]
 ![RxJS][RxJS Icon]
+![Webpack][Webpack Icon]
+![Vite][Vite Icon]
 ![React][React Icon]
 ![Angular][Angular Icon]
 ![Vue.js][Vue.js Icon]
@@ -233,6 +235,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [JavaScript Icon]:https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white
 [TypeScript Icon]:https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white
 [RxJS Icon]:https://img.shields.io/badge/RxJS-A22846.svg?&style=for-the-badge&logo=ReactiveX&logoColor=white
+[Webpack Icon]:https://img.shields.io/badge/Webpack-8DD6F9.svg?&style=for-the-badge&logo=Webpack&logoColor=white
+[Vite Icon]:https://img.shields.io/badge/Vite-646CFF.svg?&style=for-the-badge&logo=Vite&logoColor=white
 [Angular Icon]:https://img.shields.io/badge/Angular-DD0031.svg?&style=for-the-badge&logo=Angular&logoColor=white
 [React Icon]:https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white
 [Vue.js Icon]:https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white
