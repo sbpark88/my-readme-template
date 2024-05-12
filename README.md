@@ -7,7 +7,8 @@ https://github.com/othneildrew/Best-README-Template 를 기본으로 하여 수�
 <div align="center"> <!-- Obsolete attribute 는 일반 HTML 문서에서 해당되는거고, 깃허브의 마크다운에는 style text-align 이 적용되지 않고 align 이 적용된다. -->
   <a href="https://github.com/sbpark88">
     <!-- images 디렉토리의 `logo.png` 파일을 업데이트한다. -->
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
+    <img src="https://github.com/sbpark88/sbpark88.github.io/blob/main/assets/images/favicon/greendreamtree.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Starbucks</h3>
@@ -230,6 +231,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ![Docker][Docker Icon]
 ![Azure DevOps][Azure DevOps Icon]
 ![AWS EC2][AWS EC2 Icon]
+![Netlify][Netlify Icon]
+![Vercel][Vercel Icon]
 ![Raspberry Pi][Raspberry Pi Icon]
 ![Oracle][Oracle Icon]
 ![PostgreSQL][PostgreSQL Icon]
@@ -279,6 +282,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Docker Icon]:https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white
 [Azure DevOps Icon]:https://img.shields.io/badge/Azure_DevOps-0078D7.svg?&style=for-the-badge&logo=azuredevops&logoColor=white
 [AWS EC2 Icon]:https://img.shields.io/badge/Aws_EC2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white
+[Netlify Icon]:https://img.shields.io/badge/Netlify-00C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white
+[Vercel Icon]:https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=Vercel&logoColor=white
 [Raspberry Pi Icon]:https://img.shields.io/badge/Raspberry_Pi-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white
 [Oracle Icon]:https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white
 [PostgreSQL Icon]:https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white
