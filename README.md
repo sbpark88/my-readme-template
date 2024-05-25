@@ -229,6 +229,7 @@ Icons
 ![AWS Lambda][AWS Lambda Icon]
 ![Netlify][Netlify Icon]
 ![Vercel][Vercel Icon]
+![Firebase][Firebase Icon]
 ![Raspberry Pi][Raspberry Pi Icon]
 ![Oracle][Oracle Icon]
 ![PostgreSQL][PostgreSQL Icon]
@@ -275,6 +276,7 @@ https://simpleicons.org/ 에서 검색해서 추가
 [AWS Lambda Icon]:https://img.shields.io/badge/AWS_Lambda-FF9900.svg?&style=for-the-badge&logo=awslambda&logoColor=white
 [Netlify Icon]:https://img.shields.io/badge/Netlify-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white
 [Vercel Icon]:https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white
+[Firebase Icon]:https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white
 [Raspberry Pi Icon]:https://img.shields.io/badge/Raspberry_Pi-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white
 [Oracle Icon]:https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white
 [PostgreSQL Icon]:https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white
