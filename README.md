@@ -199,17 +199,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!--
+Icons
 ![HTML5][HTML5 Icon]
 ![CSS3][CSS3 Icon]
 ![SCSS][SCSS Icon]
-![Styled Components][Styled Components Icon]
-![MUI][MUI Icon]
 ![Tailwind CSS][Tailwind CSS Icon]
-![Redux][Redux Icon]
-![Redux Saga][Redux Saga Icon]
-![Recoil][Recoil Icon]
-![Zustand][Zustand Icon]
-![Next.js][Next.js Icon]
 ![JavaScript][JavaScript Icon]
 ![TypeScript][TypeScript Icon]
 ![RxJS][RxJS Icon]
@@ -230,7 +224,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ![Python][Python Icon]
 ![Docker][Docker Icon]
 ![Azure DevOps][Azure DevOps Icon]
+![AWS][AWS Icon]
 ![AWS EC2][AWS EC2 Icon]
+![AWS Lambda][AWS Lambda Icon]
 ![Netlify][Netlify Icon]
 ![Vercel][Vercel Icon]
 ![Raspberry Pi][Raspberry Pi Icon]
@@ -246,21 +242,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [![Gmail Badge][Gmail Icon]][My Email]
 -->
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!--
+https://simpleicons.org/ 에서 검색해서 추가
+-->
 
 [HTML5 Icon]:https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white
 [CSS3 Icon]:https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white
 [SCSS Icon]:https://img.shields.io/badge/Scss-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white
-[Styled Components Icon]:https://img.shields.io/badge/Styled_Components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white
-[MUI Icon]:https://img.shields.io/badge/MUI-007FFF.svg?&style=for-the-badge&logo=MUI&logoColor=white
 [Tailwind CSS Icon]:https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white
-[Redux Icon]:https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white
-[Redux Saga Icon]:https://img.shields.io/badge/Redux_Saga-999999.svg?&style=for-the-badge&logo=Redux-Saga&logoColor=white
-[Recoil Icon]:https://img.shields.io/badge/Recoil-3578E5.svg?&style=for-the-badge&logo=Recoil&logoColor=white
-[Zustand Icon]:https://img.shields.io/badge/Zustand-999999.svg?&style=for-the-badge&logo=Zustand&logoColor=white
-[Next.js Icon]:https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white
 [JavaScript Icon]:https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white
 [TypeScript Icon]:https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white
 [RxJS Icon]:https://img.shields.io/badge/RxJS-A22846.svg?&style=for-the-badge&logo=ReactiveX&logoColor=white
@@ -281,9 +270,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Python Icon]:https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white
 [Docker Icon]:https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white
 [Azure DevOps Icon]:https://img.shields.io/badge/Azure_DevOps-0078D7.svg?&style=for-the-badge&logo=azuredevops&logoColor=white
-[AWS EC2 Icon]:https://img.shields.io/badge/Aws_EC2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white
-[Netlify Icon]:https://img.shields.io/badge/Netlify-00C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white
-[Vercel Icon]:https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=Vercel&logoColor=white
+[AWS Icon]:https://img.shields.io/badge/Amazon_AWS-232F3E.svg?&style=for-the-badge&logo=amazoneaws&logoColor=white
+[AWS EC2 Icon]:https://img.shields.io/badge/AWS_EC2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white
+[AWS Lambda Icon]:https://img.shields.io/badge/AWS_Lambda-FF9900.svg?&style=for-the-badge&logo=awslambda&logoColor=white
+[Netlify Icon]:https://img.shields.io/badge/Netlify-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white
+[Vercel Icon]:https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white
 [Raspberry Pi Icon]:https://img.shields.io/badge/Raspberry_Pi-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white
 [Oracle Icon]:https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white
 [PostgreSQL Icon]:https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white
